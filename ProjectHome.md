@@ -1,0 +1,2 @@
+- adds volatile to non-synchronized fields (lists)
+- annotates with @Nonnull wherever possible
